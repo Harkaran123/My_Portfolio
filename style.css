@@ -653,6 +653,9 @@ nav .fa-solid{
     .work-lists{
         margin-left: -10px;
     }
+    .layer{
+        font-size: 15px;
+    }
 }
 
 #msg{
