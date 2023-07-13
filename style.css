@@ -8,9 +8,17 @@ html{
     scroll-behavior: smooth;
 }
 
+html, body{
+    overflow-x: hidden;
+}
+
 body{
     background-color: black;
     color: white;
+}
+
+#portfolio .container p{
+    margin-top: 10px;
 }
 
 #header{
